@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Hero placeholder">
+  <rect width="1200" height="800" fill="#111827" />
+  <g fill="#fff" opacity="0.08">
+    <circle cx="200" cy="200" r="180" />
+    <circle cx="1000" cy="600" r="220" />
+  </g>
+  <text x="50%" y="50%" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="42" text-anchor="middle" dy="14">OtakuVerse — hero image placeholder</text>
+</svg>
